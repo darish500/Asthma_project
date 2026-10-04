@@ -1,0 +1,10 @@
+# Local environment values and firmware credentials
+.env
+.env.*
+!.env.example
+secrets.h
+
+# Arduino IDE and build output
+.DS_Store
+build/
+
